@@ -6,7 +6,7 @@ const ListView = () => {
   const { view } = useContext(Context);
 
   return (
-    <div className="rounded text-white overflow-y-auto flex flex-col mt-8 bg-[#242424] items-center mx-4 p-1 md:p-3 h-[400px] sm:h-[300px] md:h-[580px] lg:h-[370px]">
+    <div className="rounded text-white overflow-y-auto flex flex-col mt-8 bg-[#242424] items-center mx-4 p-1 md:p-3 h-[360px] sm:h-[300px] md:h-[580px] lg:h-[370px]">
       {view.renderarr.map((el, i) => (
         <Link
           key={el.id}
