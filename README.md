@@ -1,3 +1,56 @@
+# Fabrik Assignment -
+
+This assignment was given a task to replicate or recreate a fully responsive ui of [Fabrik's website](https://vark.fbrk.in/community).
+The task also had the obective to render 3d models given with the assignment.
+
+> The task was required to be done using any javascript and library and for this implementation **React js** has been chosen.
+
+# Tools/Technologies Used in the assignment -
+
+**React (v18.2.0)** - for creation of the layout , ui and logic for making the website and rendering the 3d models.
+
+**React-three/fiber (v8.8.7) & React-three/drei (v9.32.3)** - libraries of react used for rendering , creation and manipulation of various attributes required to render 3d models.
+
+**React-router-dom (v6.4.1)** - Used to provide routing capabilities to display different pages under the required conditions.
+
+**React-icons (v4.40)** - Icon library used to provide different icon sets for the required places in the app.
+
+**Tailwind Css (v3.18.0)** - Css framework used to provide all the styling and effects for different parts of the app.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+&nbsp;
+
+# Live preview of the app :arrow_right: [Live preview](https://fabrik1.netlify.app)
+
+&nbsp;
+
+# Images preview of the app for different screen- 
+
+## Large screen view -
+
+![Large-width screen view](markdown-assets/large-screen.jpg)
+
+## Medium screen view -
+
+![Meduim-width screen view](markdown-assets/medium-screen.jpg)
+
+## Small-width screen view -
+
+![Small-width screen view](markdown-assets/mobile-screen.jpg)
+
+&nbsp;
+
+&nbsp;
+
+# Steps to run the app locally-
+
+## Download the repository on your local machine.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
