@@ -36,10 +36,10 @@ const RenderModel = () => {
 
   return (
     <div className="text-black h-[100vh] overflow-hidden bg-slate-500">
-      <Link to="/" className="font-semibold text-xl p-2 my-2 pl-[50px]">
+      <Link to="/" className="font-semibold text-xl p-2 my-3 pl-[50px]">
         Back to homepage
-        {viewmodels}
       </Link>
+      {viewmodels}
     </div>
   );
 };
